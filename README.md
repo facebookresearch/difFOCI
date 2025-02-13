@@ -1,6 +1,6 @@
 # difFOCI
 
-Code to replicate the experimental results from [A differentiable rank-based objective for better feature learning](https://arxiv.org/).
+Code to replicate the experimental results from [A differentiable rank-based objective for better feature learning](https://openreview.net/pdf?id=KiN7g8mf9N).
 
 ## Replicating the main results
 
