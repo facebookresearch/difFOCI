@@ -1,3 +1,4 @@
+# Copyright (c) Meta Platforms, Inc. and affiliates. All Rights Reserved
 #!/usr/bin/env python
 
 import os
